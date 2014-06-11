@@ -1,1 +1,5 @@
-[ {name: 'victor', mail: 'victor@intech.com'}, {name: 'nora', mail: 'nora@intech.com'}, {name: 'mena', mail: 'mena@intech.com'} ]
+[
+{"name": 'victor', "mail": 'victor@intech.com'},
+{"name": 'nora', "mail": 'nora@intech.com'},
+{"name": 'mena', "mail": 'mena@intech.com'} 
+]
